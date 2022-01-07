@@ -1,8 +1,8 @@
 ## Rock Paper Scissors 2.0
 
-# Work in Progress
+In Progress
 
-- added new features to the classic game to give it new life
+# added new features to the classic game to give it new life
 
 # Main New Features
 - Randomly grants the user assistance(referred to as magic in program)
