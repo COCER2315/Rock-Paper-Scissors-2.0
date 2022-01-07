@@ -221,7 +221,7 @@ export default function App() {
         </div>
       </div>
       {/* to do add let user choose how to use magic */}
-      {// JS implemented, CSS not yet
+      {// only JS implemented, CSS is to be added later
       }
       {magicUse && (
         <div
